@@ -6,8 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Nriver/jackett-translation/releases/download/v0.20.2767/Jackett-cn.Binaries.Windows.zip",
-            "hash": "6a573844a4c76bf8c05c6bd07bd2ec526c17c2df6f88138eff064ae600b6b41b",
-            "extract_dir": "Jackett"
+            "hash": "6a573844a4c76bf8c05c6bd07bd2ec526c17c2df6f88138eff064ae600b6b41b"
         }
     },
     "pre_uninstall": [
