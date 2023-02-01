@@ -46,7 +46,7 @@ iwr -useb get.scoop.sh | iex
 scoop install proxychains
 ```
 
-找到配置文件`proxychains.conf`，比如`E:\soft\scoop\persist\proxychains\proxychains.conf`
+找到配置文件`proxychains.conf`，比如`E:\soft\scoop\persist\proxychains\proxychains.conf`。修改最后一行的代理配置，比如改成`http 127.0.0.1 10809`。
 
 开启代理
 
