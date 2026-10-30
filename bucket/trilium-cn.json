@@ -1,12 +1,12 @@
 {
-    "version": "0.63.7_20240530",
+    "version": "0.64.0_20261030",
     "description": "Trilium Notes 中文版 by Nriver",
     "homepage": "https://github.com/Nriver/trilium-translation",
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Nriver/trilium-translation/releases/download/v0.63.7_20240530/trilium-cn-windows-x64.zip",
-            "hash": "21e8993a34351d4b1f1342d10550bb35acf0746c66021bf00aa3534275ad16c2",
+            "url": "https://github.com/Nriver/trilium-translation/releases/download/v0.64.0_20261030/trilium-windows-x64-0.64.0-cn.7z",
+            "hash": "7d1432b74aeb28dfaf27eab378e16819ba3c3cca92a357a71388e043ad034cc5",
             "extract_dir": "trilium-windows-x64"
         }
     },
